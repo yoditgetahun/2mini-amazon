@@ -35,4 +35,4 @@ def logout():
 if __name__ == '__main__':
     app.run(debug=True)
     TEMPLATES_AUTO_RELOAD = True
-    app.secret_key = 'super_secret_key'
+    app.secret_key = 'super_secret_key
